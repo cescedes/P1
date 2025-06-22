@@ -18,7 +18,7 @@ Experiments are conducted on the following [MoleculeNet](https://moleculenet.org
 - BACE
 - BBBP
 
-Each model is fine-tuned with different layer freezing combinations (e.g., freeze bottom 1, 2, 3 layers, etc.).
+Model is fine-tuned with different layer freezing combinations (e.g., freeze bottom 1, 2, 3 layers, etc.).
 
 ## 🏗 Architecture
 
