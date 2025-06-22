@@ -1,5 +1,6 @@
 '''
-this file goes into the GraphLoG repo/directory with the 'finetune_model.py' file 
+this file is adapted from GraphLoG's finetune file.
+goes into the GraphLoG repo/directory with 'finetune_model.py'
 it is used to finetune and run the finetune_model on the bace and bbbp datasets:
 it experiments with freezing different layers of the GNN and evaluates the performance
 and saves the results and embeddings for further analysis
