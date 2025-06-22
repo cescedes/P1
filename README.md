@@ -29,10 +29,6 @@ Each model is fine-tuned with different layer freezing combinations (e.g., freez
 
 ## 📦 Dependencies
 
-- `pytorch-geometric`
-- `rdkit`
-- `scikit-learn`, `numpy`, `pandas`
-- [`rogi-xd`](https://github.com/coleygroup/rogi-xd)
 - This project is heavily inspired by and adapted from:
   - [MolCLR](https://github.com/yuyangw/MolCLR)
   - [GraphLoG](https://github.com/DeepGraphLearning/GraphLoG)
