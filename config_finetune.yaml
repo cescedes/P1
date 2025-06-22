@@ -1,3 +1,6 @@
+# modified from the original 'config_finetune.yaml' file from MolCLR. this version is needed for experiments
+
+
 batch_size: 32                  # batch size
 epochs: 100                     # total number of epochs
 eval_every_n_epochs: 1          # validation frequency
